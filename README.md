@@ -1,5 +1,7 @@
 # QuoteGenerator
 
-I wanted to mess around with API's so I made a little quote generator with Advice Slip JSON API.
+#### This is an advice generator used with Advice Slip JSON API.
 
-Download project and npm, then run 'npm start' to test it yourself.
+[![samplepic-quotegenerator.png](https://i.postimg.cc/zvbMZTP5/samplepic-quotegenerator.png)](https://postimg.cc/V0w4X08H)
+
+### Download project and npm, then run 'npm start' to test it yourself.
